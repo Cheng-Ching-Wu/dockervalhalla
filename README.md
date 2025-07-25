@@ -1,4 +1,6 @@
 ## 地圖檔.osm 請自行上網下載
+台灣地圖osm檔 : https://download.geofabrik.de/asia/taiwan.html
+
 
 [![ci tests](https://github.com/nilsnolde/docker-valhalla/actions/workflows/tests.yml/badge.svg)](https://github.com/nilsnolde/docker-valhalla/actions/workflows/tests.yml)
 
