@@ -1,0 +1,8 @@
+docker-compose.yml
+custom_files/
+*.pbf
+!tests/*.pbf
+*.tar
+*.sqlite
+taiwan.osm
+ChiayiLanternFestivalArea_ver2.osm
